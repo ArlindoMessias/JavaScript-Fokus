@@ -18,7 +18,7 @@
 
 <p align="justify">
   Esse projeto é inspirado na técnica Pomodoro, que visa a concentração em tarefas importantes.
-<p>Esse projeto foi desenvolvido durante a realização do curso "<em>Lógica de Programação: Laços e Listas com JavaScript</em>" na plataforma Alura.
+<p>Esse projeto foi desenvolvido durante a realização do curso "<em> JavaScript: manipulando elementos no DOM</em>" na plataforma Alura.
 </p>
 
 ## Objetivo do Projeto
