@@ -27,7 +27,7 @@ Com o projeto finalizado, será obtido o projeto de um cronômetro para o foco d
 </p>
 
 ## Exemplo de Funcionamento da Aplicação
-Link do projeto: #
+Link do projeto: https://arlindomessias.github.io/JavaScript-Fokus/
 ![image](https://github.com/ArlindoMessias/JavaScript-Fokus/assets/47644068/a214a44a-b1c0-47c0-a237-ae67607ba72c)
 
 ## Pré-requisitos
